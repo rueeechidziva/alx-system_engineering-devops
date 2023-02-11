@@ -1,2 +1,3 @@
 #!/bin/bash
-#why?
+echo "username $ user"
+exit 0
