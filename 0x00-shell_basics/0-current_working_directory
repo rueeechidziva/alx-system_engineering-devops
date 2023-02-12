@@ -1,5 +1,2 @@
 #!/bin/bash
-pwd
-touch README.md
-echo "where am l" > README.md
-ls README.md
+pwd 
