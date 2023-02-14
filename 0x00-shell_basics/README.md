@@ -1,1 +1,1 @@
-/c/Users/User/alx-system_engineering-devops/0x00-shell_basics
+where am l
