@@ -1,2 +1,2 @@
 #!/bin/bash
-var BEST=School
+export GLOBAL_VAR="/BEST/School/"
