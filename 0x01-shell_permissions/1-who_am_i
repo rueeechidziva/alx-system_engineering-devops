@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "username $ user"
-exit 0
+whoami
