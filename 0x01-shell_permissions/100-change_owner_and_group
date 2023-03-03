@@ -1,2 +1,2 @@
 #!/bin bash
-#what?
+chown -hR vincent:staff .

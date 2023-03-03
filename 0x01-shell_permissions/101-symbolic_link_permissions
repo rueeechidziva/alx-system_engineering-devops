@@ -1,2 +1,2 @@
 #!/bin/bash
-#why?
+chown -h vincent:staff _hello
